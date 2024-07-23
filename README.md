@@ -12,8 +12,8 @@ Este projeto é uma API simples construída em Go utilizando o framework Gin. A 
 ## Estrutura do Projeto
 
 hello-world-api/
-├── go.mod
-└── main.go
+go.mod
+main.go
 
 ## Configuração
 
